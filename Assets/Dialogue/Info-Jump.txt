@@ -1,0 +1,2 @@
+[NAME=Sign][SPEAKERSPRITE=Sign] Once again, you see an old sign, however, this one looks much older. Most of the contents remain illegible except for a few words.
+[NAME=Sign][SPEAKERSPRITE=Sign] Some ledges are too high to walk. Jump with SPACE to reach new heights.

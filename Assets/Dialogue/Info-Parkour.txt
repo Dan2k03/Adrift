@@ -1,0 +1,2 @@
+[NAME=Sign][SPEAKERSPRITE=Sign] An old piece of what appears to be an adventurer's log lies half buried in the rocks beneath you.
+[NAME=Sign][SPEAKERSPRITE=Sign] Log - Entry 4: .

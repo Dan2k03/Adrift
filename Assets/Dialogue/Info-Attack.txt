@@ -1,0 +1,4 @@
+[NAME=Sign][SPEAKERSPRITE=Sign] An old sign lies before you. The engraving seems to be covered in a coat of snow, however, after brushing it off, much of the sign remains legible.
+[NAME=Sign][SPEAKERSPRITE=Sign] In these caverns, danger waits at every turn.
+[NAME=Sign][SPEAKERSPRITE=Sign] Prepare yourself: LEFT-CLICK to strike down any who block your path.
+[NAME=Sign][SPEAKERSPRITE=Sign] The mountain itself can be your greatest obstacle. Not all walls are as solid as they seem. Look closely - the one ahead can be shattered.

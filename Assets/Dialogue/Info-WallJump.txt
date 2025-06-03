@@ -1,0 +1,4 @@
+[NAME=Sign][SPEAKERSPRITE=Sign] You encounter an old adventurer's log with most of the pages ripped out.
+[NAME=Sign][SPEAKERSPRITE=Sign] Log - Entry 3: I've ventured deeper into the mountain caverns, and the walls themselves seem determined to hinder my climb. But I've learned a few tricks along the way.
+[NAME=Sign][SPEAKERSPRITE=Sign] When cornered between towering walls, don't fear the fall. Leap towards a wall, and just as your boots touch it, press jump again to spring upward. With practice, you can scale any vertical gap.
+[NAME=Sign][SPEAKERSPRITE=Sign] When the path ahead seems too far, remember the wind. Press X to dash forward with speed. Use this to close great distances or even leap through danger.
